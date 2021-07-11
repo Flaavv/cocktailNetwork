@@ -10,11 +10,8 @@ export class AppComponent implements OnInit {
   title = 'CocktailNetwork';
 
 
-USER = ['HAHA', 'HOHO']
-caca = 'prout'
-
 
   ngOnInit(){
-    console.log('bonjour ' + this.caca)
+   
   }
 }
